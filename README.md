@@ -16,4 +16,3 @@ Además, se han incorporado formularios inteligentes que se adaptan automáticam
 
 Este sistema no solo refuerza conceptos clave de desarrollo web (MVC, SQL, validaciones, estructura de carpetas, uso de `$_GET` y `$_POST`), sino que también ofrece una base sólida sobre la cual se pueden integrar funcionalidades futuras como autenticación, control de acceso, exportación de datos, filtros, búsqueda y más.
 
-Desarrollado con enfoque académico, pero estructurado con la lógica de producción que todo desarrollador necesita dominar.
